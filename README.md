@@ -1,6 +1,6 @@
 # ROTF-str-compress-decompress
 
-## How to use [OUTDATED] --> New version rather easier check it out [v1.2](https://github.com/Oxotnickk/ROTF-str-compress-decompress/releases/tag/Str2)
+## How to use [OUTDATED] --> New version rather easier check this out [v1.2](https://github.com/Oxotnickk/ROTF-str-compress-decompress/releases/tag/Str2)
 
 ### Decompression
 - Download ROTF-str-compress-decompress and put in any folder
