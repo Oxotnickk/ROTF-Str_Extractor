@@ -26,4 +26,4 @@
   > No, I'm NOT going to work on DLC stuff.
 
   Any future plans for this tool?
-  > Actually no idea, I was planning to make a separate tool that can open models like the umodel tool.
+  > No! I decided to stop working on it, no more updates
