@@ -20,7 +20,7 @@
   > It doesn't, causes crashing.
 
   Can we edit files?
-  > No idea, I made this tool so people could look into the files.
+  > Yes, few people tested this tool and it works perfectly
 
   Will I work on DLC stuff for ROTF?
   > No, I'm NOT going to work on DLC stuff.
