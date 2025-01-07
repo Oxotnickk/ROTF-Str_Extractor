@@ -24,6 +24,3 @@
 
   Will I work on DLC stuff for ROTF?
   > No, I'm NOT going to work on DLC stuff.
-
-  Any future plans for this tool?
-  > No! I decided to stop working on it, no more updates
