@@ -1,4 +1,4 @@
-# ROTF-str-compress-decompress
+# ROTF-Str_Extractor
 
 ## How to use [OUTDATED] --> New version rather easier check this out [v1.2.4](https://github.com/Oxotnickk/ROTF-str-compress-decompress/releases/tag/Str3)
 
