@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZlibStr", "ROTF str compress-decompress\ZlibStr.csproj", "{1E23AD49-F0DF-4E24-BB34-8CA5CF6DC47C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROTFStrExtractor", "ROTF Str Extractor\ROTFStrExtractor.csproj", "{1E23AD49-F0DF-4E24-BB34-8CA5CF6DC47C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,3 +23,4 @@ Global
 		SolutionGuid = {8F60DA66-097A-44F3-868B-81B83157F599}
 	EndGlobalSection
 EndGlobal
+
