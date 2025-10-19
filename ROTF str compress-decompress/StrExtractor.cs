@@ -4,7 +4,7 @@ using System;
 using System.IO;
 using ICSharpCode.SharpZipLib.Zip.Compression.Streams;
 
-public class ZlibStr
+public class StrExtractor
 {
     private const int HEADER_SIZE = 20;
 
@@ -100,3 +100,4 @@ public class ZlibStr
         }
     }
 }
+
